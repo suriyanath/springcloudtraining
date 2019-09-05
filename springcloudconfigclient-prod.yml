@@ -1,5 +1,5 @@
 test:
-  message: orange
+  message: mango
   
 server:
   port: 3344
