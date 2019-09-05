@@ -1,5 +1,5 @@
 test:
-  message: mango
+  message: jackfruit
   
 server:
   port: 3344
